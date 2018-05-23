@@ -1,0 +1,60 @@
+body {
+	background: linear-gradient( rgba(0, 0, 0, 0.70), rgba(0, 0, 0, 0.70) ), url("../jpegs/ballroom.jpg") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	 
+}
+#container {}
+h1 {
+	text-align:  center;
+	margin: 175px 0px 0px 0px;
+	color: white;
+	font-family: 'Pavanam', sans-serif;
+	font-size: 3.5em;
+	letter-spacing: .10em;
+}
+h2 {
+	text-align: center;
+	color:white;
+	margin: 0px 0px 0px 0px;
+	color: white;
+	font-family: 'Pavanam', sans-serif;
+	font-size: 16px;
+	letter-spacing: .10em;
+}
+
+h4 {
+	text-align: center;
+	color:white;
+	margin: 0px 0px 0px 0px;
+	color: white;
+	font-family: 'Pavanam', sans-serif;
+	font-size: 16px;
+	letter-spacing: .10em;
+}
+#button {
+	width: 200px;
+	height: 50px;
+	background-color: white;
+	display: center;
+	border-radius: 5%;
+	margin: 0 auto;
+}
+
+#button p {
+	margin-left: 22px;
+	padding-top: 15px;
+	font-family: 'Arimo', sans-serif;
+}
+#button a {
+	text-decoration: none;
+	color: black;
+}
+#button a:hover {
+	color: black;
+}
+#button a:visited {
+	color: black;
+}

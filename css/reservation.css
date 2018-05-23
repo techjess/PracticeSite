@@ -1,0 +1,36 @@
+html {
+	background: url("../jpegs/salad.jpg") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+#container {
+	margin: 0 auto;
+}
+h1 {
+	position: center;
+	margin: 250px 0px 0px 450px;
+	color: white;
+	font-family: 'Arimo', sans-serif;
+	font-size: 3em;
+}
+h2 {
+	color:white;
+	margin: 0px 0px 0px 575px;
+	color: white;
+	font-family: 'Arimo', sans-serif;
+}
+
+h4 {
+	color:white;
+	margin: 0px 0px 0px 575px;
+	color: white;
+	font-family: 'Arimo', sans-serif;
+}
+#button {
+	height: 50px;
+	width: 50px
+	background-color: white;
+}

@@ -1,0 +1,166 @@
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('webfont.eot'); /* IE9 Compat Modes */
+  src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
+       url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+* {
+	background-color: #1D1D1D;
+}
+.container {
+	width: 963px;
+	margin: 0 auto;
+	
+}
+.clear {
+	clear: both;
+}
+
+#logo {
+	float: right;
+
+}
+#SLdiv {
+	height: 300px;
+	
+	margin-top: 10px;
+	
+	
+}
+
+#links-div {
+	margin-top: 10px;
+	width: 250px;
+	float: left;
+}
+
+.square-pic {
+	color: white;
+	width: 237px;
+	height: 315px;
+	float: left;
+}
+#square1 {
+	border: 1px solid white;
+
+
+}
+#square2 {
+	border: 1px solid blue;
+	
+
+}
+#square3 {
+	border: 1px solid green;
+	
+
+}
+#square4 {
+	border: 1px solid red;
+	
+
+}
+#menu-bar {
+	margin-left: 10px;
+	padding: 0;
+}
+#menu-bar li {
+	list-style-type: none;
+	width: 200px;
+	margin: 4px;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1.25em;
+    letter-spacing: .05em;
+    line-height: .85em;
+    margin-bottom: 10px;
+}
+div ul li a {
+	color: gray;
+	text-decoration: none;
+	
+    
+}
+
+div ul li a:hover {
+	color: white;
+}
+
+div ul li a:visited {
+	text-decoration:none;
+}
+
+#paragraph {
+	position: relative;
+	display: inline-block;
+	width:	600px;
+	float: left;
+	margin-top: 10px;
+
+}
+#sublinks {
+	width: 150px;
+	float: left;
+	
+
+}
+#sublinks ul {
+	margin-left: -30px;
+}
+
+#sublinks ul li {
+	width: 200px;
+	font-size: 16px;
+}
+
+#article {
+	float: left;
+	width: 400px;
+	color: gray;
+}
+#lastLogo {
+	width: 50px;
+	float: right;
+	margin-top: 10px;
+	margin-left: 15px
+	}
+
+/*This is the section starting for the people.html page. */
+#people {
+	color: gray;
+	width: 300px;
+	float: left;
+	padding: 0;
+	margin-top: 10px;
+	
+}
+#names {
+	
+	padding: 0;
+	font-size: .8em;
+	width: 300px;
+	letter-spacing: 1px;
+	line-height: 1.5em;
+}
+#names li {
+	width: 300px;
+	list-style-type: none;
+	font-weight: bold;
+
+}
+#names li em {
+	color: #B5B5B0;
+}
+#bio {
+	width: 300px;
+	float: left;
+	margin-top: 10px
+}
+
+
+
+
+
+
